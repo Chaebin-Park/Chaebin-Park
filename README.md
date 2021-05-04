@@ -40,6 +40,7 @@
 
 ![Chaebin's github stats](https://github-readme-stats.vercel.app/api?username=Chaebin-Park&show_icons=true)
 
+![[Tob Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaemin-Park&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Chaebin's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
 
