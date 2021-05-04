@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/AndroidStudio-45A889?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intellij-2177DA?style=flat-square&logo=Intellij&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jetbrains Space-AEEB69?style=flat-square&logo=Space&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-14BBE5?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows-14BBE5?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E2511F?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 
