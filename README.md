@@ -17,8 +17,6 @@
 <img src="https://img.shields.io/badge/Git-E84E31?style=flat-square&logo=Git&logoColor=white"/></a>
 
 
-
-
 ## ✨Career✨
 | Date | Contents | etc |
 | ---  | --- | --- |
@@ -30,3 +28,6 @@
 | 2020.09 | Data Scientist Academy&Certificate M3 수료 | 한국생산성본부 |
 | 2020.11 | 소프트웨어 테스팅 경진대회 참가 | DEU |
 | 2020.12 | 동아리연계캡스톤디자인 프로젝트 발표회 총장상 수상 | DEU |
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Chaebin-Park=Chaebin-Park)](https://github.com/anuraghazra/github-readme-stats)
+[![Chaebin Park's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
