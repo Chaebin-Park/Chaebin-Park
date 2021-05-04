@@ -11,6 +11,9 @@
 
 ## Tools
 <img src="https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ROS-A4C639?style=flat-square&logo=ROS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-A4C639?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
 
 
 
