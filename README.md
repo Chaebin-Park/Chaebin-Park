@@ -1,9 +1,10 @@
 ### Hi there 👋 
 ### My name is **Chaebin** 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Chaebin-Park=Chaebin-Park)](https://github.com/anuraghazra/github-readme-stats)
+![Chaebin's github stats](https://github-readme-stats.vercel.app/api?username=Chaebin-Park&show_icons=true)
 
-[![Chaebin Park's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
+
+[![Chaebin's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
 
 ## 💻Tech Stack💻
 ### Languages & Tools
