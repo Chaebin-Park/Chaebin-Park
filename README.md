@@ -3,7 +3,12 @@
 
 ## Tech Stack
 ### Languages
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-A4C639?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=JAVA&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Kotlin-A4C639?style=flat-square&logo=Kotlin&logoColor=white"/>
+</a><img src="https://img.shields.io/badge/C-A4C639?style=flat-square&logo=C&logoColor=white"/></a>
+</a><img src="https://img.shields.io/badge/JavaScript-A4C639?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
 
 
 ## ✨Career✨
