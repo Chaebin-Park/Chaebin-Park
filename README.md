@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/C-6295CB?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E44C26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1573B6?style=flat-square&logo=css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1573B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-59D8FB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-3C4D69?style=flat-square&logo=ROS&logoColor=white"/></a>
