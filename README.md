@@ -2,18 +2,17 @@
 ### My name is **Chaebin** 
 
 ## Tech Stack
-### Languages
+### Languages & Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=JAVA&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Kotlin-A4C639?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A4C639?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-A4C639?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-A4C639?style=flat-square&logo=React&logoColor=white"/></a>
-
-## Tools
 <img src="https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-A4C639?style=flat-square&logo=ROS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-A4C639?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-A4C639?style=flat-square&logo=Git&logoColor=white"/></a>
 
 
 
