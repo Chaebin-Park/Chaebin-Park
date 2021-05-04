@@ -1,11 +1,6 @@
 ### Hi there 👋 
 ### My name is **Chaebin** 
 
-![Chaebin's github stats](https://github-readme-stats.vercel.app/api?username=Chaebin-Park&show_icons=true)
-
-
-[![Chaebin's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
-
 ## 💻Tech Stack💻
 ### Languages & Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
@@ -16,10 +11,18 @@
 <img src="https://img.shields.io/badge/HTML5-E44C26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1573B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-59D8FB?style=flat-square&logo=React&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ROS-3C4D69?style=flat-square&logo=ROS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-005E86?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-E84E31?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-E84E31?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AndroidStudio-45A889?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intellij-2177DA?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jetbrains Space-AEEB69?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-14BBE5?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E2511F?style=flat-square&logo=Git&logoColor=white"/></a>
+
 
 
 ## ✨Career✨
@@ -33,4 +36,10 @@
 | 2020.09 | Data Scientist Academy&Certificate M3 수료 | 한국생산성본부 |
 | 2020.11 | 소프트웨어 테스팅 경진대회 참가 | DEU |
 | 2020.12 | 동아리연계캡스톤디자인 프로젝트 발표회 총장상 수상 | DEU |
+
+
+![Chaebin's github stats](https://github-readme-stats.vercel.app/api?username=Chaebin-Park&show_icons=true)
+
+
+[![Chaebin's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
 
