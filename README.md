@@ -25,7 +25,7 @@
 
 ![Chaebin's github stats](https://github-readme-stats.vercel.app/api?username=Chaebin-Park&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaebin-Park)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaebin-Park&layout=compact)
 
 [![Chaebin's BOJ](http://mazassumnida.wtf/api/generate_badge?boj=coqls0219)](https://solved.ac/coqls0219)
 
